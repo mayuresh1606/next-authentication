@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  height: 15vh;
+  background-color: aliceblue;
+  box-shadow: 0 0 10px 0 grey;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 40vw;
+}
+.list li {
+  list-style: none;
+  margin: auto 0;
+}
