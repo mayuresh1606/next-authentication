@@ -1,3 +1,3 @@
-export default Navbar = () => {
+export default function Navbar() {
     return <h1>Blog</h1>
 }
